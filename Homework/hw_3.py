@@ -94,3 +94,4 @@ my_phone.call(1,996709906629)
 smartphone1.use_gps('Tokmok')
 
 print(f'Computer and smartphone has equal size of memory: {my_computer==smartphone1}')
+"""done"""
