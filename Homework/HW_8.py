@@ -56,7 +56,7 @@ def insert_students(db_name, students):
         print(e)
 
 
-"""the hardest part"""
+"""the hardest part of code"""
 def get_cities(db_name):
     sql = '''SELECT id, title FROM cities'''
     try:
