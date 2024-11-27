@@ -115,7 +115,7 @@ database_name = 'hw.db'
 # if my_connection is not None:
 #     print('Successfully connected to database')
 #     create_table(my_connection, sql_to_create_products_table)
-# create_table(database_name, sql_to_create_products_table)
+create_table(database_name, sql_to_create_products_table)
 
 
 # insert_products(database_name,('2% Milk ', 120, 150))
